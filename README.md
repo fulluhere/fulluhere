@@ -18,7 +18,6 @@
 - 💻 Currently building **DoCode** — a full-stack online judge platform with microservices for auth, code execution, and AI-powered hints
 - 🧠 Competitive programmer — **700+ DSA problems solved**
 - 🏆 Selected for **Infosys Springboard Cohort 9**
-- 💼 Software Engineering Intern @ **Desi QnA**
 - 🌱 Focused on mastering Data Structures, Algorithms, and full-stack architecture
 
 ---
