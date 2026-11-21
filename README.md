@@ -150,4 +150,17 @@ A collaborative full-stack project that tracks user-defined expectations, ingest
 ### 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fulluhere&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fulluhere&theme=dark&hide_border=true&background=0d1117" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulluhere&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="48%">
+</p>
+
+<p align="center">
+  <em>💡 Building at the intersection of Software Engineering and Artificial Intelligence.</em>
+  <br>
+  <em>Open to SDE, Backend Engineering and AI/GenAI internship opportunities.</em>
+</p>
  
